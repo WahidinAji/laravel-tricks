@@ -10,3 +10,4 @@ some tips and tricks of laravel
 * [Simple Rest-API](https://github.com/WahidinAji/Rest-API)
 * [Multi Auth With Middleware](https://github.com/WahidinAji/multi-auth-with-middleware)
 * [Test Livewire](https://github.com/WahidinAji/Test-Laravel-Livewire)
+* [Sample Integration With Midtrans](https://github.com/WahidinAji/Sample-Midtrans-with-Laravel_7)
