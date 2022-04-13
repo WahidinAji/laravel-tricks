@@ -11,3 +11,7 @@ some tips and tricks of laravel
 * [Multi Auth With Middleware](https://github.com/WahidinAji/multi-auth-with-middleware)
 * [Test Livewire](https://github.com/WahidinAji/Test-Laravel-Livewire)
 * [Sample Integration With Midtrans](https://github.com/WahidinAji/Sample-Midtrans-with-Laravel_7)
+
+
+# Setup Code Editor (VSCode)
+* [settings.json](https://github.com/WahidinAji/settings.json)
